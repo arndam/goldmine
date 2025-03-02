@@ -1,6 +1,6 @@
 <!--
 Author: Arne Damvin
-Copyright (c) 2023 Arne Damvin
+Copyright (c) 2025 Arne Damvin
 License: GNU General Public License v3.0 (GPL-3.0)
 -->
 
