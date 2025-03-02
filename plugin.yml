@@ -1,0 +1,14 @@
+name: GoldMine
+version: 0.1-BETA
+main: com.damvin.goldmine.GoldMine
+api-version: '1.20'
+description: Double the contents of a player's chest
+commands:
+  goldmine:
+    description: Double the contents of the chest you're looking at
+    usage: /goldmine
+    permission: goldmine.use
+permissions:
+  goldmine.use:
+    description: Allows players to use the goldmine command
+    default: op 
